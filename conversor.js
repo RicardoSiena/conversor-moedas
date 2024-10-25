@@ -21,6 +21,6 @@ let valorConvertido
 }else{  valorConvertido = valor * exchangeRates [daMoeda][paraMoeda];       
     }
     let conversao = document.getElementById('conversao');
-    conversao.textContent = `resultado ${valorConvertido} ` ;
+    conversao.textContent = `resultado ${valorConvertido.toFixed(2)} ` ;
 
  });
