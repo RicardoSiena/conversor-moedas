@@ -1,11 +1,15 @@
 # Conversor de Moedas
- Essa atividade consiste em uma aplicação que converte de Real para Dólar ou Euro; Dólar para Real ou Euro e Euro para Real ou Dólar. Atribuindo um valor predefinido para cada moeda.
 
- # Tecnologias utilizadas
- * HTML
- * JS
- * CSS
+A aplicação permite ao usuário inserir um valor e selecionar uma moeda de origem e uma moeda de destino para realizar a conversão. Utilizando taxas de câmbio, o sistema calcula e exibe o valor convertido. O objetivo deste projeto é oferecer uma interface de conversão rápida e prática.
 
+_____________________________________________________________________________________________________________________________________________
+# Como Usar
+* Abra o arquivo HTML em um navegador.
+* Digite o valor que deseja converter.
+* Escolha a moeda de origem e a moeda de destino.
+* Clique em "Converter" para visualizar o resultado.
+* Clique em "Limpar" para redefinir o formulário e inserir novos valores.
+_____________________________________________________________________________________________________________________________________________
 # Arquivo JS
 ![Alt text](<img/Captura de tela 2024-10-30 111304.png>)
 
@@ -27,3 +31,15 @@ Por exemplo, de USD para EUR é 0.93, o que significa que 1 USD equivale a 0.93 
 De BRL para EUR, a taxa é 0.16, significando que 1 BRL equivale a 0.16 EUR.
 Isso pode ser usado para realizar conversões de uma moeda para outra, utilizando as taxas fornecidas. Se você precisar de mais informações ou de um exemplo de uso, é só avisar!
 _____________________________________________________________________________________________________________________________________________
+ # PARTE 3 
+ Esta parte do código é parte de uma função que realiza a conversão de um valor monetário de uma moeda para outra com base em taxas de câmbio armazenadas em um objeto chamado exchangeRates.
+
+
+  # Tecnologias utilizadas
+ * HTML
+ * JS
+ * CSS
+ _____________________________________________________________________________________________________________________________________________
+
+# Autores
+* Ricardo Siena
